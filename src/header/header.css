@@ -1,0 +1,15 @@
+header {display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;}
+
+.logo {display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    padding: 1em;
+    color: white;}
+
+.img_logo {width: 10em;}
